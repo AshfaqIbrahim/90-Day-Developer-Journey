@@ -1,3 +1,6 @@
+// Problem 6
+// Find the avg of array.
+
 function sumOfArray(arr) {
   let sum = 0;
 

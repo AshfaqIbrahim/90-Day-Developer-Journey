@@ -1,3 +1,6 @@
+// Problem 5
+// Find the sum of array.
+
 function sumOfArray(arr) {
   let sum = 0;
 

@@ -1,5 +1,5 @@
 // Day - 7
-// Problem 13: Find the Largest Difference
+// Problem 13: Find the Largest Difference.
 
 function largestDiff(arr) {
   let max = arr[0];

@@ -1,4 +1,4 @@
-// Day  7
+// Day  8
 // Problem 15: Rotate an Array by One Position (Right)
 
 function rotateRight(arr) {
